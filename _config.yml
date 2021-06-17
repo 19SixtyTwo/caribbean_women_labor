@@ -20,8 +20,8 @@
 
 title:            'Caribbean Women & Labor'
 description:      'Team Oak Wax Project'
-url:              'https://minicomp.github.io'
-baseurl:          '/Wax'
+url:              ''
+baseurl:          '/dreamlab'
 copyright:        'Example copyright org, 2021'
 logo:             '/assets/logo.png'
 
