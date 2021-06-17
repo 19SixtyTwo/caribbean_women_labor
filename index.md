@@ -16,4 +16,4 @@ __Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for pr
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='dreamlab' %}
+{% include collection_gallery.html facet_by='location' collection='dreamlab' %}
