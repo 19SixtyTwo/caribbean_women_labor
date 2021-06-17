@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'Exhibit B: Looking At/Back'
+title: 'Looking At/Back'
 author: Team Oak
 publish_date: 2021-06-17
 permalink: /exhibits/b/

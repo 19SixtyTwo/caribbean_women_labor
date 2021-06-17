@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: 'Exhibit A: Women in the Marketplace'
+title: 'Women in the Marketplace'
 author: Team Oak
 publish_date: 2021-06-17
 permalink: /exhibits/a/
