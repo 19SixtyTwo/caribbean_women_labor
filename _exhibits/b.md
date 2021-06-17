@@ -5,7 +5,7 @@ author: Team Oak
 publish_date: 2021-06-17
 permalink: /exhibits/b/
 ---
-A Temperance Bar in a town square. Ghost images. Palimpsest.
+A Temperance Bar in Falmouth, Jamaica. Ghost images. Palimpsest.
 
 {% include inline_image.html collection='dreamlab' pid='obj007' %}
 

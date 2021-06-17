@@ -20,8 +20,8 @@
 
 title:            'Caribbean Women & Labor'
 description:      'Team Oak Wax Project'
-url:              ''
-baseurl:          '/dreamlab'
+url:              'https://minicomp.github.io'
+baseurl:          '/Wax'
 copyright:        'Example copyright org, 2021'
 logo:             '/assets/logo.png'
 
@@ -113,9 +113,9 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Women in the Marketplace'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'Looking At/Back'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
